@@ -3,7 +3,7 @@ javascript:(
       
       console.log('ページタイトル');
       alert('ページタイトル：');
-      var newElement = document.createElement("span");
+//       var newElement = document.createElement("span");
 //       var newContent = document.createTextNode("holy");
 //       newElement.appendChild(newContent);
 //       newElement.setAttribute("class","tabNav t1Nav");
